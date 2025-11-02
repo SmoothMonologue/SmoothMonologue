@@ -1,4 +1,4 @@
-## 안녕하십니까, 김호진입니다. 👋
+## 안녕하십니까👋, 김호진입니다.
 
 <!--
 **SmoothMonologue/SmoothMonologue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
