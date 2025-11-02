@@ -1,6 +1,6 @@
 ## 안녕하십니까👋, 김호진입니다.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?SmoothMonologue=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SmoothMonologue)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **SmoothMonologue/SmoothMonologue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
